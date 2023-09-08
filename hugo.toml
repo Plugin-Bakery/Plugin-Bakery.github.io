@@ -1,0 +1,4 @@
+baseURL = 'https://plugin-bakery/'
+languageCode = 'en-us'
+title = 'Plugin Bakery'
+theme = "hugo-theme-console"
