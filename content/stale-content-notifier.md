@@ -30,12 +30,12 @@ Yes, you can specify the email address that will receive notifications for stale
 
 ## Changelog
 
-**0.1.0**
+**1.0.0**
 * Initial release with basic notification functionality.
 
 ## Upgrade Notice
 
-**0.1.0**
+**1.0.0**
 This is the first release of the Stale Content Notifier plugin. Install and help maintain fresh content on your website!
 
 ## Repo
